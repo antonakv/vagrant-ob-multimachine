@@ -13,8 +13,7 @@ Tested on Mac OS X.
 - git installed
 [Git installation manual](https://git-scm.com/download/mac)
 
-- web browser installed
-Use web browser bundled in your OS
+- Web browser installed. Use web browser bundled with your OS.
 
 ## Preparation 
 - Clone git repository. 
